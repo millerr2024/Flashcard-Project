@@ -1,5 +1,5 @@
 # Flashcard-Project
-A java project that uses a max-heap to sort flashcards by how frequently they are answered incorrectly. Created by Rachel "Lysander" Miller in fall of 2020 for the Carleton College course Introduction to Data Structures.
+A Java project that uses a max-heap to sort flashcards by how frequently they are answered incorrectly. Created by Rachel "Lysander" Miller in fall of 2020 for the Carleton College course Introduction to Data Structures.
 
 ---------------------------------------------------
 
