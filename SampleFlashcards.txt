@@ -1,0 +1,6 @@
+6,Ottawa,Canada
+4,Kabul,Afghanistan
+5,Apia,Samoa
+4,Kampala,Uganda
+4,Beijing,China
+5,Brasilia,Brazil
